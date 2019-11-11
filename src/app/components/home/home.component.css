@@ -1,0 +1,22 @@
+.titulos
+{
+	font-family: 'Yeon Sung', cursive;
+}
+.color-icon-1
+{
+    color: plum;
+}
+@keyframes latidos {
+    from { transform: none; }
+    50% { transform: scale(1.1); }
+    to { transform: none; }
+}
+.corazon {
+	animation: latidos .9s infinite;	
+}
+.Pie-Web-Page
+{	
+	bottom: 0;		
+ 	text-align: center; 	
+ 	width: 100%;
+}

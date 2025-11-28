@@ -2,9 +2,10 @@
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "version": 1,
   "cli": {
-    "defaultCollection": "@angular-devkit/schematics"
+    "defaultCollection": "@angular-devkit/schematics",
+    "analytics": false
   },
-  "defaultProject": "felizcumple",
+  "defaultProject": "felizcumple", 
   "newProjectRoot": "projects",
   "projects": {
     "felizcumple": {
